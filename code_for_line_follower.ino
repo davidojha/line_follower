@@ -1,3 +1,5 @@
+// please check the circuit using this code before connecting battries
+
 // Line Follower Robot Code
 #define leftSensor A0    // IR sensor on the left
 #define rightSensor A1   // IR sensor on the right
